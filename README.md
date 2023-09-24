@@ -1,1 +1,1 @@
-# coding-project-template
+# Sample React Budget App
